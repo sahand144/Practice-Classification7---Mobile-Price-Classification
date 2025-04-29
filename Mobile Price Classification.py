@@ -1,4 +1,4 @@
-path = r"D:\datasets\New To Work on 3\Done - Mobile Price Classification\Mobile Price Classification.zip"
+path = r"...path...\Mobile Price Classification.zip"
 
 import zipfile as zip
 import pandas as pd
